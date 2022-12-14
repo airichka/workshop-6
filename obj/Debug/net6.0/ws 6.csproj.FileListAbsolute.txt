@@ -1,0 +1,15 @@
+C:\Users\Иришка\Desktop\ws 6\obj\Debug\net6.0\ws 6.csproj.AssemblyReference.cache
+C:\Users\Иришка\Desktop\ws 6\obj\Debug\net6.0\ws 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Иришка\Desktop\ws 6\obj\Debug\net6.0\ws 6.AssemblyInfoInputs.cache
+C:\Users\Иришка\Desktop\ws 6\obj\Debug\net6.0\ws 6.AssemblyInfo.cs
+C:\Users\Иришка\Desktop\ws 6\obj\Debug\net6.0\ws 6.csproj.CoreCompileInputs.cache
+C:\Users\Иришка\Desktop\ws 6\bin\Debug\net6.0\ws 6.exe
+C:\Users\Иришка\Desktop\ws 6\bin\Debug\net6.0\ws 6.deps.json
+C:\Users\Иришка\Desktop\ws 6\bin\Debug\net6.0\ws 6.runtimeconfig.json
+C:\Users\Иришка\Desktop\ws 6\bin\Debug\net6.0\ws 6.dll
+C:\Users\Иришка\Desktop\ws 6\bin\Debug\net6.0\ws 6.pdb
+C:\Users\Иришка\Desktop\ws 6\obj\Debug\net6.0\ws 6.dll
+C:\Users\Иришка\Desktop\ws 6\obj\Debug\net6.0\refint\ws 6.dll
+C:\Users\Иришка\Desktop\ws 6\obj\Debug\net6.0\ws 6.pdb
+C:\Users\Иришка\Desktop\ws 6\obj\Debug\net6.0\ws 6.genruntimeconfig.cache
+C:\Users\Иришка\Desktop\ws 6\obj\Debug\net6.0\ref\ws 6.dll
